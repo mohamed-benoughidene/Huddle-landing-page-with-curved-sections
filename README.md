@@ -23,7 +23,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ### Links
 
-- Solution URL: [Github](https://github.com/mohamed-benoughidene/Huddle-landing-page-with-curved-sections)
+- Solution URL: [in FrontEndMentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-CQ0Y6JSYD2)
 - Live Site URL: [Live Site at Netlify](https://astounding-pixie-628bb2.netlify.app)
 
 ### Built with
